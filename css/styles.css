@@ -1,0 +1,14 @@
+.bgcolor{
+	background-color: grey;
+	height: 50px;
+	margin-top: 50px;
+}
+.opscolor{
+	background-color: orange;
+}
+.boder{
+	border: solid grey 0.5px;
+}
+.bkcolor{
+	background-color: lightblue;
+}
